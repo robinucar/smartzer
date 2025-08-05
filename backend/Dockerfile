@@ -1,5 +1,5 @@
 # ---------- Base stage ----------
-  FROM node:22.16.0-alpine AS base
+  FROM node:22.18.0-alpine AS base
   WORKDIR /app
   
   # Copy the full monorepo first
@@ -18,7 +18,7 @@
   
   
   # ---------- Production stage ----------
-  FROM node:22.16.0-alpine AS production
+  FROM node:22.18.0-alpine AS production
   WORKDIR /app
   
   # ✅ Copy built output from custom path
