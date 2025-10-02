@@ -76,7 +76,7 @@
     "prettier": "^3.5.3",
     "pretty-quick": "^4.2.2",
     "prisma": "^6.8.2",
-    "react-refresh": "^0.17.0",
+    "react-refresh": "^0.18.0",
     "renovate": "^40.62.1",
     "supertest": "^7.1.1",
     "ts-jest": "^29.3.4",
