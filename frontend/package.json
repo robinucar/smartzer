@@ -4,8 +4,8 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.7",
+    "@tailwindcss/vite": "^4.3.3",
     "clsx": "^2.1.1",
-    "tailwindcss": "^4.1.7"
+    "tailwindcss": "^4.3.3"
   }
 }

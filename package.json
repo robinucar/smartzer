@@ -97,7 +97,7 @@
     "shared-types"
   ],
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.9",
+    "@tailwindcss/vite": "^4.3.3",
     "@prisma/client": "^6.8.2",
     "@tanstack/react-query": "^5.80.10",
     "axios": "^1.9.0",
