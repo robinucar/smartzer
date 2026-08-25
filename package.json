@@ -75,7 +75,7 @@
     "nx": "20.8.2",
     "prettier": "^3.5.3",
     "pretty-quick": "^4.2.2",
-    "prisma": "^6.8.2",
+    "prisma": "^6.19.3",
     "react-refresh": "^0.17.0",
     "renovate": "^40.62.1",
     "supertest": "^7.1.1",
